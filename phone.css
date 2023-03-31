@@ -1,0 +1,34 @@
+#head{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 159%;
+    height: 179vh;
+}
+
+
+/*
+#navbar{
+    display: flex;
+    height: 63px;
+    width: 154%;
+}
+
+
+
+.nav_ul div{
+    margin-right: 9px;
+    padding-left: 7px;
+
+}
+.nav_ul li {
+    list-style: none;
+    margin: 14px 19px;
+    padding: 3px;
+}
+
+.nav_ul li a {
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+} */
